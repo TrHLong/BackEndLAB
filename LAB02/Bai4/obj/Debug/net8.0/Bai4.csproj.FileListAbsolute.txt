@@ -1,0 +1,15 @@
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB02\Bai4\bin\Debug\net8.0\Bai4.exe
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB02\Bai4\bin\Debug\net8.0\Bai4.deps.json
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB02\Bai4\bin\Debug\net8.0\Bai4.runtimeconfig.json
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB02\Bai4\bin\Debug\net8.0\Bai4.dll
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB02\Bai4\bin\Debug\net8.0\Bai4.pdb
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB02\Bai4\obj\Debug\net8.0\Bai4.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB02\Bai4\obj\Debug\net8.0\Bai4.AssemblyInfoInputs.cache
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB02\Bai4\obj\Debug\net8.0\Bai4.AssemblyInfo.cs
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB02\Bai4\obj\Debug\net8.0\Bai4.csproj.CoreCompileInputs.cache
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB02\Bai4\obj\Debug\net8.0\Bai4.sourcelink.json
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB02\Bai4\obj\Debug\net8.0\Bai4.dll
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB02\Bai4\obj\Debug\net8.0\refint\Bai4.dll
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB02\Bai4\obj\Debug\net8.0\Bai4.pdb
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB02\Bai4\obj\Debug\net8.0\Bai4.genruntimeconfig.cache
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB02\Bai4\obj\Debug\net8.0\ref\Bai4.dll
