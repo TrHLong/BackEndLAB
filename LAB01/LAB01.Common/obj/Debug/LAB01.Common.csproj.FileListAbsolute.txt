@@ -1,6 +1,0 @@
-D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB01\LAB01.Common\bin\Debug\LAB01.Common.dll
-D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB01\LAB01.Common\bin\Debug\LAB01.Common.pdb
-D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB01\LAB01.Common\obj\Debug\LAB01.Common.csproj.AssemblyReference.cache
-D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB01\LAB01.Common\obj\Debug\LAB01.Common.csproj.CoreCompileInputs.cache
-D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB01\LAB01.Common\obj\Debug\LAB01.Common.dll
-D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB01\LAB01.Common\obj\Debug\LAB01.Common.pdb
