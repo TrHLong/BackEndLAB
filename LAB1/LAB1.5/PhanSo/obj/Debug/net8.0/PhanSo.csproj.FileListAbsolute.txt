@@ -1,0 +1,14 @@
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\PhanSo\bin\Debug\net8.0\PhanSo.exe
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\PhanSo\bin\Debug\net8.0\PhanSo.deps.json
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\PhanSo\bin\Debug\net8.0\PhanSo.runtimeconfig.json
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\PhanSo\bin\Debug\net8.0\PhanSo.dll
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\PhanSo\bin\Debug\net8.0\PhanSo.pdb
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\PhanSo\obj\Debug\net8.0\PhanSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\PhanSo\obj\Debug\net8.0\PhanSo.AssemblyInfoInputs.cache
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\PhanSo\obj\Debug\net8.0\PhanSo.AssemblyInfo.cs
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\PhanSo\obj\Debug\net8.0\PhanSo.csproj.CoreCompileInputs.cache
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\PhanSo\obj\Debug\net8.0\PhanSo.dll
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\PhanSo\obj\Debug\net8.0\refint\PhanSo.dll
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\PhanSo\obj\Debug\net8.0\PhanSo.pdb
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\PhanSo\obj\Debug\net8.0\PhanSo.genruntimeconfig.cache
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\PhanSo\obj\Debug\net8.0\ref\PhanSo.dll

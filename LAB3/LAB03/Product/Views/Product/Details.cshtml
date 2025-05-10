@@ -1,0 +1,30 @@
+﻿@model Product.Models.Product
+
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4 text-primary">📦 Thông tin sản phẩm</h2>
+
+    <table class="table table-bordered shadow-sm w-50">
+        <tbody>
+            <tr>
+                <th style="width: 30%;">ID</th>
+                <td>@Model.Id</td>
+            </tr>
+            <tr>
+                <th>Tên sản phẩm</th>
+                <td>@Model.Name</td>
+            </tr>
+            <tr>
+                <th>Giá</th>
+                <td>@Model.Price.ToString("N0") VNĐ</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <a asp-controller="Home" asp-action="Index" class="btn btn-outline-secondary mt-3">
+        ← Quay lại trang chủ
+    </a>
+</div>

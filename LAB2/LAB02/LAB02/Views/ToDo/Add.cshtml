@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Thêm Task";
+}
+
+<h2 class="mb-4">📝 Thêm Task Mới</h2>
+
+<form>
+    <div class="mb-3">
+        <label class="form-label">Tên công việc</label>
+        <input type="text" class="form-control" placeholder="Nhập task ví dụ: Ôn tập C#" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Mức độ ưu tiên</label>
+        <select class="form-select">
+            <option>Thấp</option>
+            <option>Trung bình</option>
+            <option>Cao</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-success">Thêm Task</button>
+    <a asp-action="Index" class="btn btn-secondary ms-2">Quay lại</a>
+</form>

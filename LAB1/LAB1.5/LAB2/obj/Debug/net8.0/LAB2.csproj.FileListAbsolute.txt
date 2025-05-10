@@ -1,0 +1,14 @@
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\LAB2\bin\Debug\net8.0\LAB2.exe
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\LAB2\bin\Debug\net8.0\LAB2.deps.json
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\LAB2\bin\Debug\net8.0\LAB2.runtimeconfig.json
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\LAB2\bin\Debug\net8.0\LAB2.dll
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\LAB2\bin\Debug\net8.0\LAB2.pdb
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\LAB2\obj\Debug\net8.0\LAB2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\LAB2\obj\Debug\net8.0\LAB2.AssemblyInfoInputs.cache
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\LAB2\obj\Debug\net8.0\LAB2.AssemblyInfo.cs
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\LAB2\obj\Debug\net8.0\LAB2.csproj.CoreCompileInputs.cache
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\LAB2\obj\Debug\net8.0\LAB2.dll
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\LAB2\obj\Debug\net8.0\refint\LAB2.dll
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\LAB2\obj\Debug\net8.0\LAB2.pdb
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\LAB2\obj\Debug\net8.0\LAB2.genruntimeconfig.cache
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT-17-02\LAB1.5\LAB2\obj\Debug\net8.0\ref\LAB2.dll

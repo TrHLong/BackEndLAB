@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\CNTT-17-02\\LAB1.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDA3041-CD6E-45AF-A794-677DE2445953}|RCS\\RCS.csproj|d:\\learn\\2025_2025(3)\\thietkebackend\\cntt-17-02\\lab1.5\\rcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDA3041-CD6E-45AF-A794-677DE2445953}|RCS\\RCS.csproj|solutionrelative:rcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDA3041-CD6E-45AF-A794-677DE2445953}|RCS\\RCS.csproj|d:\\learn\\2025_2025(3)\\thietkebackend\\cntt-17-02\\lab1.5\\rcs\\hinhvuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDA3041-CD6E-45AF-A794-677DE2445953}|RCS\\RCS.csproj|solutionrelative:rcs\\hinhvuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDA3041-CD6E-45AF-A794-677DE2445953}|RCS\\RCS.csproj|d:\\learn\\2025_2025(3)\\thietkebackend\\cntt-17-02\\lab1.5\\rcs\\hinhtron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDA3041-CD6E-45AF-A794-677DE2445953}|RCS\\RCS.csproj|solutionrelative:rcs\\hinhtron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDA3041-CD6E-45AF-A794-677DE2445953}|RCS\\RCS.csproj|d:\\learn\\2025_2025(3)\\thietkebackend\\cntt-17-02\\lab1.5\\rcs\\hinhtamgiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDA3041-CD6E-45AF-A794-677DE2445953}|RCS\\RCS.csproj|solutionrelative:rcs\\hinhtamgiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDA3041-CD6E-45AF-A794-677DE2445953}|RCS\\RCS.csproj|d:\\learn\\2025_2025(3)\\thietkebackend\\cntt-17-02\\lab1.5\\rcs\\hinhchunhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDA3041-CD6E-45AF-A794-677DE2445953}|RCS\\RCS.csproj|solutionrelative:rcs\\hinhchunhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDA3041-CD6E-45AF-A794-677DE2445953}|RCS\\RCS.csproj|d:\\learn\\2025_2025(3)\\thietkebackend\\cntt-17-02\\lab1.5\\rcs\\hinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDA3041-CD6E-45AF-A794-677DE2445953}|RCS\\RCS.csproj|solutionrelative:rcs\\hinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HinhVuong.cs",
+              "DocumentMoniker": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\CNTT-17-02\\LAB1.5\\RCS\\HinhVuong.cs",
+              "RelativeDocumentMoniker": "RCS\\HinhVuong.cs",
+              "ToolTip": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\CNTT-17-02\\LAB1.5\\RCS\\HinhVuong.cs",
+              "RelativeToolTip": "RCS\\HinhVuong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T06:55:33.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HinhTron.cs",
+              "DocumentMoniker": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\CNTT-17-02\\LAB1.5\\RCS\\HinhTron.cs",
+              "RelativeDocumentMoniker": "RCS\\HinhTron.cs",
+              "ToolTip": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\CNTT-17-02\\LAB1.5\\RCS\\HinhTron.cs",
+              "RelativeToolTip": "RCS\\HinhTron.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T06:55:31.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HinhTamGiac.cs",
+              "DocumentMoniker": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\CNTT-17-02\\LAB1.5\\RCS\\HinhTamGiac.cs",
+              "RelativeDocumentMoniker": "RCS\\HinhTamGiac.cs",
+              "ToolTip": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\CNTT-17-02\\LAB1.5\\RCS\\HinhTamGiac.cs",
+              "RelativeToolTip": "RCS\\HinhTamGiac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T06:55:26.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HinhChuNhat.cs",
+              "DocumentMoniker": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\CNTT-17-02\\LAB1.5\\RCS\\HinhChuNhat.cs",
+              "RelativeDocumentMoniker": "RCS\\HinhChuNhat.cs",
+              "ToolTip": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\CNTT-17-02\\LAB1.5\\RCS\\HinhChuNhat.cs",
+              "RelativeToolTip": "RCS\\HinhChuNhat.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T06:55:23.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hinh.cs",
+              "DocumentMoniker": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\CNTT-17-02\\LAB1.5\\RCS\\Hinh.cs",
+              "RelativeDocumentMoniker": "RCS\\Hinh.cs",
+              "ToolTip": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\CNTT-17-02\\LAB1.5\\RCS\\Hinh.cs",
+              "RelativeToolTip": "RCS\\Hinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T06:52:23.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\CNTT-17-02\\LAB1.5\\RCS\\Program.cs",
+              "RelativeDocumentMoniker": "RCS\\Program.cs",
+              "ToolTip": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\CNTT-17-02\\LAB1.5\\RCS\\Program.cs",
+              "RelativeToolTip": "RCS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T06:51:37.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

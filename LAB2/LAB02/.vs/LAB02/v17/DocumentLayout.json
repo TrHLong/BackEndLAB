@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\LAB2\\LAB02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A12AD67-BA32-43C2-A702-8293C90CA5D7}|LAB02\\LAB02.csproj|d:\\learn\\2025_2025(3)\\thietkebackend\\lab2\\lab02\\lab02\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A12AD67-BA32-43C2-A702-8293C90CA5D7}|LAB02\\LAB02.csproj|solutionrelative:lab02\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A12AD67-BA32-43C2-A702-8293C90CA5D7}|LAB02\\LAB02.csproj|d:\\learn\\2025_2025(3)\\thietkebackend\\lab2\\lab02\\lab02\\views\\todo\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A12AD67-BA32-43C2-A702-8293C90CA5D7}|LAB02\\LAB02.csproj|solutionrelative:lab02\\views\\todo\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A12AD67-BA32-43C2-A702-8293C90CA5D7}|LAB02\\LAB02.csproj|d:\\learn\\2025_2025(3)\\thietkebackend\\lab2\\lab02\\lab02\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A12AD67-BA32-43C2-A702-8293C90CA5D7}|LAB02\\LAB02.csproj|solutionrelative:lab02\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A12AD67-BA32-43C2-A702-8293C90CA5D7}|LAB02\\LAB02.csproj|d:\\learn\\2025_2025(3)\\thietkebackend\\lab2\\lab02\\lab02\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A12AD67-BA32-43C2-A702-8293C90CA5D7}|LAB02\\LAB02.csproj|solutionrelative:lab02\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\LAB2\\LAB02\\LAB02\\Views\\ToDo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LAB02\\Views\\ToDo\\Edit.cshtml",
+              "ToolTip": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\LAB2\\LAB02\\LAB02\\Views\\ToDo\\Edit.cshtml",
+              "RelativeToolTip": "LAB02\\Views\\ToDo\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T07:34:20.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\LAB2\\LAB02\\LAB02\\Views\\ToDo\\Add.cshtml",
+              "RelativeDocumentMoniker": "LAB02\\Views\\ToDo\\Add.cshtml",
+              "ToolTip": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\LAB2\\LAB02\\LAB02\\Views\\ToDo\\Add.cshtml",
+              "RelativeToolTip": "LAB02\\Views\\ToDo\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T07:32:12.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\LAB2\\LAB02\\LAB02\\Views\\ToDo\\Index.cshtml",
+              "RelativeDocumentMoniker": "LAB02\\Views\\ToDo\\Index.cshtml",
+              "ToolTip": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\LAB2\\LAB02\\LAB02\\Views\\ToDo\\Index.cshtml",
+              "RelativeToolTip": "LAB02\\Views\\ToDo\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T07:07:04.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\LAB2\\LAB02\\LAB02\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "LAB02\\Controllers\\ToDoController.cs",
+              "ToolTip": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\LAB2\\LAB02\\LAB02\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "LAB02\\Controllers\\ToDoController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T07:05:41.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

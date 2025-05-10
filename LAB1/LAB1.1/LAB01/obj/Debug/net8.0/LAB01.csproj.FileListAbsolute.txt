@@ -1,0 +1,4 @@
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB01\LAB01\obj\Debug\net8.0\LAB01.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB01\LAB01\obj\Debug\net8.0\LAB01.AssemblyInfoInputs.cache
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB01\LAB01\obj\Debug\net8.0\LAB01.AssemblyInfo.cs
+D:\LEARN\2025_2025(3)\Thietkebackend\CNTT 17-02\LAB01\LAB01\obj\Debug\net8.0\LAB01.csproj.CoreCompileInputs.cache

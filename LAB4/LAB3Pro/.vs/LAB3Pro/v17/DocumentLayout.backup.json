@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\LAB4\\LAB3Pro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9246BB58-C7E3-4517-877B-BC93E6235610}|LAB3Pro\\LAB3Pro.csproj|d:\\learn\\2025_2025(3)\\thietkebackend\\lab4\\lab3pro\\lab3pro\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9246BB58-C7E3-4517-877B-BC93E6235610}|LAB3Pro\\LAB3Pro.csproj|solutionrelative:lab3pro\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9246BB58-C7E3-4517-877B-BC93E6235610}|LAB3Pro\\LAB3Pro.csproj|d:\\learn\\2025_2025(3)\\thietkebackend\\lab4\\lab3pro\\lab3pro\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9246BB58-C7E3-4517-877B-BC93E6235610}|LAB3Pro\\LAB3Pro.csproj|solutionrelative:lab3pro\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\LAB4\\LAB3Pro\\LAB3Pro\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "LAB3Pro\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\LAB4\\LAB3Pro\\LAB3Pro\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "LAB3Pro\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T08:29:41.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\LAB4\\LAB3Pro\\LAB3Pro\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LAB3Pro\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\LEARN\\2025_2025(3)\\Thietkebackend\\LAB4\\LAB3Pro\\LAB3Pro\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LAB3Pro\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwDwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T08:14:32.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

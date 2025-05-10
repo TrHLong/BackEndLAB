@@ -1,0 +1,33 @@
+﻿@model List<LAB3Pro.Models.User>
+
+<h2>Danh sách người dùng</h2>
+
+<a asp-action="Add" class="btn btn-success mb-3">+ Thêm người dùng</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Tài khoản</th>
+            <th>Mật khẩu</th>
+            <th>Email</th>
+            <th>Điện thoại</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.id</td>
+                <td>@user.username</td>
+                <td>@user.password</td>
+                <td>@user.email</td>
+                <td>@user.phone</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@user.id" class="btn btn-warning btn-sm">Sửa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
