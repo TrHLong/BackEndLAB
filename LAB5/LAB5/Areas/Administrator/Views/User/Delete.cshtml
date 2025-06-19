@@ -1,0 +1,14 @@
+﻿@using LAB5.Areas.Administrator.Models
+@model User
+@{
+    ViewData["Title"] = "Delete User";
+    Layout = "~/Areas/Administrator/Views/_Layout.cshtml";
+}
+
+<h4>Are you sure you want to delete @Model.name?</h4>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" name="id" value="@Model.id" />
+    <button type="submit" class="btn btn-danger">Yes, Delete</button>
+    <a href="@Url.Action("Index", "User", new { area = "Administrator" })" class="btn btn-secondary">Cancel</a>
+</form>
