@@ -1,0 +1,11 @@
+﻿@model Class
+<h1>Thêm Lớp</h1>
+<form action="/Class/Add" method="post">
+	<div class="form-group">
+		<label asp-for="ClassName"></label>
+		<input class="form-control" asp-for="ClassName" />
+	</div>
+	<div class="form-group">
+		<button class="btn btn-success" type="submit">Submit</button>
+	</div>
+</form>

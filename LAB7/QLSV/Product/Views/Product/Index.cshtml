@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Product.Models.ProductItem> 
+
+<h1 class="text-center">Danh sách sản phẩm</h1>
+<a class="btn btn-primary my-3" href="/Product/Create">Thêm mới</a>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Mã sản phẩm</th>
+            <th>Tên sản phẩm</th>
+            <th>Giá</th>
+            <th>Số lượng</th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Price</td>
+                <td>@item.Stock</td>
+                <td>
+                    <a class="btn btn-warning" href="/Product/Edit/@item.Id">Sửa</a>
+                    <a class="btn btn-danger" href="/Product/Delete/@item.Id">Xoá</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,32 @@
+﻿@model List<Student>
+<h1 class="text-center">Danh sách sinh viên</h1>
+<a class="btn btn-primary my-3" href="/Student/Add">Thêm mới</a>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Mã sinh viên</th>
+            <th>Họ tên</th>
+            <th>Điện thoại</th>
+            <th>Email</th>
+            <th>Lớp</th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.studentId</td>
+                <td>@item.studentName</td>
+                <td>@item.phone</td>
+                <td>@item.email</td>
+                <td>@item.Class?.ClassName ?? "Chưa phân lớp"</td> <!-- Kiểm tra null ở đây -->
+                <td>
+                    <a class="btn btn-warning" href="/Student/Edit/@item.studentId">Sửa</a>
+                    &nbsp;
+                    <a class="btn btn-danger" href="/Student/Delete/@item.studentId">Xoá</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,26 @@
+﻿@model List<Class>
+<h1 class="text-center">Danh sách lớp học</h1>
+<a class="btn btn-primary my-3" href="/Class/Add">Thêm mới</a>
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<th>Mã Lớp</th>
+			<th>Tên Lớp</th>
+			<th>Chức năng</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>@item.ClassId</td>
+				<td>@item.ClassName</td>
+				<td>
+					<a class="btn btn-warning" href="/Class/Edit/@item.ClassId">Sửa</a>
+					&nbsp;
+					<a class="btn btn-danger" href="/Class/Delete/@item.ClassId">Xoá</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
